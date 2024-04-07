@@ -35,7 +35,7 @@ Ready to PINGLE? <br>
 | --- | --- |
 | Architecture | Clean Architecture, MVVM |
 | Design Pattern | Repository Pattern, Adapter Pattern,  Delegation Pattern, Observer Pattern |
-| Jetpack Components | encryptedsharedpreferences, LiveData, Lifecycle, ViewModel, DataBinding |
+| Jetpack Components | EncryptedSharedPreferences, LiveData, Lifecycle, ViewModel, DataBinding |
 | Dependency Injection | Hilt |
 | Network | Retrofit, OkHttp |
 | Asynchronous Processing | Coroutine(+ Flow) |
